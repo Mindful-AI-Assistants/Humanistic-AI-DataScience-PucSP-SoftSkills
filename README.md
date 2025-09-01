@@ -358,7 +358,7 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/cd633650b4cac90ada42c6e2079aa53adc620d08/_12-SoftSskills-Linkedin%20Digital%20Interview.pdf) 
 >
 
 
