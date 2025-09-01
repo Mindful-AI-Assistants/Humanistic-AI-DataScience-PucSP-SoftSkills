@@ -128,7 +128,7 @@ Introduces the critical role soft skills play alongside technical knowledge. Und
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/8167752d08ff12590f015ec44a72be7778c8c378/1-What%20are%20Soft%20Skills.pdf) 
 >
 
 
