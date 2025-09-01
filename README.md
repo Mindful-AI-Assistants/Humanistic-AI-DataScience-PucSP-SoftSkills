@@ -60,7 +60,7 @@
 > 
 >  *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”*  – Peter Drucker
 >
->   *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.” *
+>   *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”*
 >
 >
 >
