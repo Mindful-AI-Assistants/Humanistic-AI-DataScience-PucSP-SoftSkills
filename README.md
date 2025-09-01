@@ -151,6 +151,18 @@ Promotes a modern, adaptable learning approach leveraging technology and collabo
 <br><br>
 
 
+### 5. [Emotional Intelligence]()
+
+Enhances abilities to perceive, understand, and manage emotions in oneself and others, directly improving teamwork, leadership, and conflict resolution capabilities.
+
+
+<br><br>
+
+
+### 6. [Positive Intelligence vs. Universal Saboteur]()
+
+Teaches mental fitness techniques to boost resilience and optimism while recognizing negative thought patterns that hinder performance and growth.
+
 
 
 
