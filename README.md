@@ -110,6 +110,8 @@ In today's rapidly evolving technology landscape, [**technical expertise alone i
 
 ## [Program Content Overview and Importance]()
 
+<br><br>
+
 ### 1. [Introduction to Soft Skills]()
 
 Introduces the critical role soft skills play alongside technical knowledge. Understanding this foundation prepares students to excel personally and professionally, especially in AI and data-driven industries.
