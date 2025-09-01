@@ -2,7 +2,7 @@
 <br>
 
 
-# <p align="center">  Soft Skills Discipline for Technology Professionals
+# <p align="center">  𝚿 [Soft Skills Discipline for Technology Professionals]()
 
 <br><br><br>
 
