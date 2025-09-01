@@ -123,6 +123,15 @@ In today's rapidly evolving technology landscape, [**technical expertise alone i
 
 Introduces the critical role soft skills play alongside technical knowledge. Understanding this foundation prepares students to excel personally and professionally, especially in AI and data-driven industries.
 
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
+
 
 <br><br>
 
