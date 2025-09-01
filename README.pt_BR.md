@@ -45,15 +45,15 @@
 
 > [!IMPORTANT]
 >
-> ⚠️ Heads Up 
+> ⚠️ Atenção
 >
-> * Projects and deliverables may be made [publicly available]() whenever possible.
+> * Projetos e entregas podem ser tornados [publicamente disponíveis]() sempre que possível.
 >
-> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+> * O curso prioriza a [**prática hands-on**]() com dados reais em cenários de consultoria.
 >
-> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> * Todas as atividades cumprem as [**diretrizes acadêmicas e éticas da PUC-SP**]().
 >
-> * [**Confidential information**]() from this repository remains private in [private repositories]().
+> * Informações [**confidenciais**]() deste repositório permanecem privadas em [repositórios privados]().
 >
 >  
 
@@ -63,27 +63,29 @@
 
 <br><br>
 
-<!--End-->
+<!--Fim-->
 
 
 > [!TIP]
 >
->  * *People are hired for their technical skills, but fired for their behavior.* – Peter Drucker
+>
+>  * *As pessoas são contratadas por suas habilidades técnicas, mas demitidas por seu comportamento.* – Peter Drucker
 > 
->  * *Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.*  
+>  * *As habilidades técnicas representam cerca de 15% do motivo pelo qual alguém consegue, mantém e avança em um emprego. Os outros 85% são soft skills.*  
 >
->  * *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.*
+>  * *“As habilidades técnicas representam cerca de 15% do motivo pelo qual alguém consegue, mantém e avança em um emprego. Os outros 85% são soft skills.*
 >
->   * *Soft Skills are the invisible engine of career growth.* – Travis Bradberry
+>   * *Soft Skills são o motor invisível do crescimento na carreira.* – Travis Bradberry
 >
->   * *In today's accelerated technology environment, continuous learning and adaptability are as important as technical prowess.*
+>   * *No ambiente tecnológico acelerado de hoje, a aprendizagem contínua e a adaptabilidade são tão importantes quanto as habilidades técnicas.*
 >
->  * *Curiosity, resilience, flexibility, and self-awareness are some of the most valued socioemotional skills in the workplace.* – World Economic Forum 2023
+>  * *Curiosidade, resiliência, flexibilidade e autoconsciência são algumas das habilidades socioemocionais mais valorizadas no ambiente de trabalho.* – Fórum Econômico Mundial 2023
 >
->  * *Soft Skills are not soft at all; they are hard to master but essential for lasting career success.*
+>  * *Soft Skills não são nada suaves; são difíceis de dominar, mas essenciais para o sucesso duradouro na carreira.*
 >
-
 
 <br><br><br>
 
-<!--End-->
+<!--Fim-->
+
+
