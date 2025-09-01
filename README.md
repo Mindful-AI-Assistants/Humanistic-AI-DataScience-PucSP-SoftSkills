@@ -98,7 +98,7 @@ In today's rapidly evolving technology landscape, [**technical expertise alone i
 
 ## Table of Contents
 
-1. [Introduction to Soft Skills](#1-introduction-to-soft-skills)
+1. [[What are Soft Skills ?](#1-introduction-to-soft-skills)
 2. [Human Values](#2-human-values)
 3. [Self-Knowledge and Its Importance](#3-self-knowledge-and-its-importance)
 4. [Learning 3.0](#4-learning-30)
@@ -119,7 +119,7 @@ In today's rapidly evolving technology landscape, [**technical expertise alone i
 
 <br><br>
 
-### 1. [Introduction to Soft Skills]()
+### 1. [What are Soft Skills ?]()
 
 Introduces the critical role soft skills play alongside technical knowledge. Understanding this foundation prepares students to excel personally and professionally, especially in AI and data-driven industries.
 
