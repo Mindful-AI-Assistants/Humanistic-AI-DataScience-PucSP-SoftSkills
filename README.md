@@ -195,7 +195,11 @@ Promotes a modern, adaptable learning approach leveraging technology and collabo
 >
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 ### 5. [Emotional Intelligence]()
@@ -211,7 +215,11 @@ Enhances abilities to perceive, understand, and manage emotions in oneself and o
 >
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 ### 6. [Positive Intelligence vs. Universal Saboteur]()
@@ -227,7 +235,11 @@ Teaches mental fitness techniques to boost resilience and optimism while recogni
 >
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 ### 7. [Effective and Assertive Communication]()
@@ -243,7 +255,11 @@ Develops skills for clear, confident expression and active listening, essential 
 >
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 ### 8. [Empathy]()
@@ -260,8 +276,11 @@ Cultivates the ability to understand and share others' perspectives, fostering i
 >
 
 
+<br>
 
- <br><br>
+#
+
+<br>
 
 
 ### 9. [Conflict Management and Negotiation]()
@@ -278,7 +297,11 @@ Equips students with strategies to address disagreements constructively, paving 
 >
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 ### 10. [Resume Preparation]()
@@ -296,7 +319,11 @@ Provides practical advice on creating tailored, impactful resumes that highlight
 
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 ### 11. [LinkedIn Preparation]()
@@ -314,7 +341,12 @@ Guides students to effectively build their professional online presence, enhanci
 
 
 
-<br><br>
+<br>
+
+#
+
+<br>
+
 
 ### 12. [LinkedIn Digital Interview]()
 
