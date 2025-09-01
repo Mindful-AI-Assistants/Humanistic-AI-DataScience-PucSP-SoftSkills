@@ -1,4 +1,18 @@
-# Humanistic-AIDS-Puc-SP-SoftSkills
+
+<br>
+
+
+# Soft Skills Discipline for Technology Professionals
+
+<br><br>
+
+**Humanistic AI and Data Science – 4th Semester**  
+**PUC-SP**  
+**Professor: Mirtiz Crus**
+
+<br><br>
+
+> “Technical skills may get you the job, but soft skills will propel your career.” 
 
 
 
@@ -23,3 +37,11 @@
 <br><br><br>
 
 <!--End-->
+
+
+
+## Introduction
+
+In today's rapidly evolving technology landscape, **technical expertise alone is not enough**. Soft skills — the interpersonal, emotional, and cognitive abilities — are crucial for thriving in collaborative, innovative, and human-centered environments. This course is specifically designed for professionals in AI and data science, emphasizing the integration of humanistic values and effective communication to enhance both personal growth and professional success.
+
+***
