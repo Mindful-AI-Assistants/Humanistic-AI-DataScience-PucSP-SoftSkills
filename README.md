@@ -45,7 +45,7 @@
 >
 > * [**Confidential information**]() from this repository remains private in [private repositories]().
 >
->
+>  
 
 <br>
 
@@ -68,7 +68,7 @@
 >
 >  *“In today's accelerated technology environment, continuous learning and adaptability are as important as technical prowess.”*
 >
->
+> * *Curiosity, resilience, flexibility, and self-awareness are some of the most valued socioemotional skills in the workplace.* – World Economic Forum 2023
 >
 >
 
