@@ -211,7 +211,7 @@ Enhances abilities to perceive, understand, and manage emotions in oneself and o
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/1f48a0ef0875af44a344d85270d9b6a9df30a47d/5-SoftSskills-Emotional%20Intelligence.pdf) 
 >
 
 
