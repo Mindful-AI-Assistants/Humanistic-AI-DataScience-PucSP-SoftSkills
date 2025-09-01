@@ -25,24 +25,51 @@
 
 
 
+<br><br>
+
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
 
 <!--Confidentiality Statement-->
 
 <br><br>
 
-#
 
-### ⚠️ Heads Up
+> [!IMPORTANT]
+>
+> ⚠️ Heads Up 
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+>
+> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+>
+> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+>
+> * [**Confidential information**]() from this repository remains private in [private repositories]().
+>
+>
 
-- [Whenever possible](), projects and deliverables developed during the course will be made [publicly accessible]().  
-
-- The course emphasizes [**practical, hands-on experience**]() with real  professional consulting scenarios in the fields.
-
-- All activities and materials will strictly adhere to the [**academic and ethical guidelines of PUC-SP**](). Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
-
-#
+#  
 
 <br><br><br>
+
+<!--End-->
+
+
+> [!TIP]
+>
+>  Extras Links We Use:
+>
+> - [Qlik](https://www.qlik.com/us)
+>
+
+
+
+
+
+<br><br>
 
 <!--End-->
 
