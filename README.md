@@ -212,23 +212,19 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 
 
+<br><br>
 
 
-
-
-
-
-
+> [!IMPORTANT]
+>
+> This curated program not only equips students with technical expertise but also strengthens their essential soft skills, making them well-rounded professionals ready to lead and innovate in the technology market.
+>
 
 
 
 
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
