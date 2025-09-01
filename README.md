@@ -167,7 +167,7 @@ Teaches mental fitness techniques to boost resilience and optimism while recogni
 <br><br>
 
 
-### 7. Effective and Assertive Communication
+### 7. [Effective and Assertive Communication]()
 
 Develops skills for clear, confident expression and active listening, essential for collaboration, leadership, and building professional relationships.
 
@@ -175,7 +175,7 @@ Develops skills for clear, confident expression and active listening, essential 
 <br><br>
 
 
-### 8. Empathy
+### 8. [Empathy]()
 
 Cultivates the ability to understand and share others' perspectives, fostering inclusivity and ethical considerations in creating human-centered AI solutions.
 
@@ -183,7 +183,7 @@ Cultivates the ability to understand and share others' perspectives, fostering i
  <br><br>
 
 
-### 9. Conflict Management and Negotiation
+### 9. [Conflict Management and Negotiation]()
 
 Equips students with strategies to address disagreements constructively, paving the way for mutually beneficial solutions and healthy work environments.
 
@@ -191,7 +191,7 @@ Equips students with strategies to address disagreements constructively, paving 
 <br><br>
 
 
-### 10. Resume Preparation
+### 10. [Resume Preparation]()
 
 Provides practical advice on creating tailored, impactful resumes that highlight relevant skills for data science and AI jobs, critical for successful job applications.
 
@@ -199,14 +199,14 @@ Provides practical advice on creating tailored, impactful resumes that highlight
 <br><br>
 
 
-### 11. LinkedIn Preparation
+### 11. [LinkedIn Preparation]()
 
 Guides students to effectively build their professional online presence, enhancing networking and career opportunities in the technology sector.
 
 
 <br><br>
 
-### 12. LinkedIn Digital Interview
+### 12. [LinkedIn Digital Interview]()
 
 Prepares students for the growing trend of digital interviews, focusing on presentation skills, timing, and technical readiness to succeed in modern recruitment processes.
 
