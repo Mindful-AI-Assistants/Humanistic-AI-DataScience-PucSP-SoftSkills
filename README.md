@@ -191,7 +191,7 @@ Promotes a modern, adaptable learning approach leveraging technology and collabo
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/1f48a0ef0875af44a344d85270d9b6a9df30a47d/4-SoftSskills-Learning%203.0.pdf) 
 >
 
 
