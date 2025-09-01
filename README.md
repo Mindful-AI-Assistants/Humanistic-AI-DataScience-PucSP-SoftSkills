@@ -62,13 +62,13 @@
 >
 > *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”*
 >
->  “Soft skills are the invisible engine of career growth.”* – Travis Bradberry
+>  *“Soft skills are the invisible engine of career growth.”* – Travis Bradberry
+>
+>  *“In today's accelerated technology environment, continuous learning and adaptability are as important as technical prowess.”*
 >
 >
 >
 >
-
-
 
 
 
