@@ -108,15 +108,22 @@ In today's rapidly evolving technology landscape, [**technical expertise alone i
 <br><br>
 
 
+## [Program Content Overview and Importance]()
+
+### 1. [Introduction to Soft Skills v
+
+Introduces the critical role soft skills play alongside technical knowledge. Understanding this foundation prepares students to excel personally and professionally, especially in AI and data-driven industries.
 
 
+<br><br>
 
 
+### 2. [Human Values]()
+
+Focuses on integrity, respect, and responsibility as pillars for ethical decision-making. These values are essential to guide technology development responsibly and foster trust.
 
 
-
-
-
+<br><br>
 
 
 
