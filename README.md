@@ -14,9 +14,9 @@
 <br><br><br>
 
 
-**Humanistic AI and Data Science – 4th Semester**  
-**PUC-SP**  
-**Professor: Mirtiz Crus**
+[**Humanistic AI and Data Science**]() – 4th Semester  
+[**PUC-SP**]()   
+**Professor**: [Mirtiz Crus]()
 
 
 <br><br>
