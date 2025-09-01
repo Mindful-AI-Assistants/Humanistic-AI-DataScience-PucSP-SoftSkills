@@ -314,7 +314,7 @@ Provides practical advice on creating tailored, impactful resumes that highlight
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/cd633650b4cac90ada42c6e2079aa53adc620d08/_10-SoftSskills-Resumee%20Preparation.pdf) 
 >
 
 
