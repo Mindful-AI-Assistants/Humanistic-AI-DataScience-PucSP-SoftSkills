@@ -171,7 +171,7 @@ Self-awareness improves emotional regulation and motivation, enabling better int
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/b189e13a897e04c0bbb2ac6a3b61e5bbdb2628aa/3-SoftSskills-Self-knowledge%20and%20its%20importance.pdf) 
 >
 
 
