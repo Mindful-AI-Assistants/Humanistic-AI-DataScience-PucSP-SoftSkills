@@ -56,9 +56,9 @@
 
 > [!TIP]
 >
-> *“Technical Skills May Get You The Job, but Soft Skills Will Propel Your Career.”*
+>  *“Technical Skills May Get You The Job, but Soft Skills Will Propel Your Career.”*
 > 
-> “Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”
+>  *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”*  – Peter Drucker
 >
 >
 >
