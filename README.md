@@ -1,12 +1,12 @@
 
 
-<br>
+<br><br>
  
  
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
-<br>
+<br><br>
 
 
 # <p align="center">  𝚿 [Soft Skills Discipline for Technology Professionals]()
