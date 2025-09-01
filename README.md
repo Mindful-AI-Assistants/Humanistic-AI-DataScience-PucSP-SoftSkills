@@ -151,7 +151,11 @@ Focuses on integrity, respect, and responsibility as pillars for ethical decisio
 
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 ### 3. [Self-Knowledge and Its Importances]()
@@ -167,8 +171,11 @@ Self-awareness improves emotional regulation and motivation, enabling better int
 >
 
 
+<br>
 
-<br><br>
+#
+
+<br>
 
 
 ### 4. [Learning 3.0s]()
@@ -320,7 +327,11 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 > [!IMPORTANT]
