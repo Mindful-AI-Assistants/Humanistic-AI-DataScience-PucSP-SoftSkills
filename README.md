@@ -70,8 +70,8 @@
 >
 > * *Curiosity, resilience, flexibility, and self-awareness are some of the most valued socioemotional skills in the workplace.* – World Economic Forum 2023
 >
+> * *Soft Skills are not soft at all; they are hard to master but essential for lasting career success.*
 >
-
 
 
 <br><br><br>
