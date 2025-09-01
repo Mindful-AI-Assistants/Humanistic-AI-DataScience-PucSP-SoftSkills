@@ -150,7 +150,7 @@ Focuses on integrity, respect, and responsibility as pillars for ethical decisio
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/b189e13a897e04c0bbb2ac6a3b61e5bbdb2628aa/2-SoftSskills-Human%20Values.pdf) 
 >
 
 
