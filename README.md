@@ -336,7 +336,7 @@ Guides students to effectively build their professional online presence, enhanci
 
 > [!TIP]
 >
->  * [**Access Program Content**]() 
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/cd633650b4cac90ada42c6e2079aa53adc620d08/_11-SoftSskills-Linkedin%20Preparation.pdf) 
 >
 
 
