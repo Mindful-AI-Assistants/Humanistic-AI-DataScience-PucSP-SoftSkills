@@ -6,6 +6,14 @@
 
 <br><br>
 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+ </p>
+
+<br><br>
+
+
 **Humanistic AI and Data Science – 4th Semester**  
 **PUC-SP**  
 **Professor: Mirtiz Crus**
