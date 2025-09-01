@@ -217,7 +217,7 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 > [!IMPORTANT]
 >
-> This curated program not only equips students with technical expertise but also strengthens their essential soft skills, making them well-rounded professionals ready to lead and innovate in the technology market.
+>  * *This curated program not only equips students with technical expertise but also strengthens their essential soft skills, making them well-rounded professionals ready to lead and innovate in the technology market.*
 >
 
 
