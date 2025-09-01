@@ -141,12 +141,31 @@ Introduces the critical role soft skills play alongside technical knowledge. Und
 Focuses on integrity, respect, and responsibility as pillars for ethical decision-making. These values are essential to guide technology development responsibly and foster trust.
 
 
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
+
+
 <br><br>
 
 
 ### 3. [Self-Knowledge and Its Importances]()
 
 Self-awareness improves emotional regulation and motivation, enabling better interpersonal relationships and resilience — key for sustainable career growth in dynamic tech environments.
+
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
 
 
 <br><br>
@@ -156,6 +175,14 @@ Self-awareness improves emotional regulation and motivation, enabling better int
 
 Promotes a modern, adaptable learning approach leveraging technology and collaboration. Vital for continuous skill advancement in fast-changing fields like AI and data science.
 
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
 
 <br><br>
 
@@ -163,6 +190,14 @@ Promotes a modern, adaptable learning approach leveraging technology and collabo
 ### 5. [Emotional Intelligence]()
 
 Enhances abilities to perceive, understand, and manage emotions in oneself and others, directly improving teamwork, leadership, and conflict resolution capabilities.
+
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
 
 
 <br><br>
@@ -172,6 +207,14 @@ Enhances abilities to perceive, understand, and manage emotions in oneself and o
 
 Teaches mental fitness techniques to boost resilience and optimism while recognizing negative thought patterns that hinder performance and growth.
 
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
 
 <br><br>
 
@@ -179,6 +222,14 @@ Teaches mental fitness techniques to boost resilience and optimism while recogni
 ### 7. [Effective and Assertive Communication]()
 
 Develops skills for clear, confident expression and active listening, essential for collaboration, leadership, and building professional relationships.
+
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
 
 
 <br><br>
@@ -189,12 +240,31 @@ Develops skills for clear, confident expression and active listening, essential 
 Cultivates the ability to understand and share others' perspectives, fostering inclusivity and ethical considerations in creating human-centered AI solutions.
 
 
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
+
+
  <br><br>
 
 
 ### 9. [Conflict Management and Negotiation]()
 
 Equips students with strategies to address disagreements constructively, paving the way for mutually beneficial solutions and healthy work environments.
+
+
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
 
 
 <br><br>
@@ -205,6 +275,16 @@ Equips students with strategies to address disagreements constructively, paving 
 Provides practical advice on creating tailored, impactful resumes that highlight relevant skills for data science and AI jobs, critical for successful job applications.
 
 
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
+
+
 <br><br>
 
 
@@ -213,11 +293,30 @@ Provides practical advice on creating tailored, impactful resumes that highlight
 Guides students to effectively build their professional online presence, enhancing networking and career opportunities in the technology sector.
 
 
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
+
+
+
 <br><br>
 
 ### 12. [LinkedIn Digital Interview]()
 
 Prepares students for the growing trend of digital interviews, focusing on presentation skills, timing, and technical readiness to succeed in modern recruitment processes.
+
+
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**]() 
+>
 
 
 
