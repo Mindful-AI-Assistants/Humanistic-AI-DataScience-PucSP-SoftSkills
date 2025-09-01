@@ -4,7 +4,7 @@
 
 # <p align="center">  Soft Skills Discipline for Technology Professionals
 
-<br><br<br>
+<br><br><br>
 
 
 <p align="center">
@@ -47,11 +47,11 @@
 >
 >
 
-<br><br>
+<br>
 
 #  
 
-<br><br>
+<br>
 
 <!--End-->
 
