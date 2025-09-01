@@ -58,15 +58,15 @@
 
 > [!TIP]
 >
->  * *Technical Skills May Get You The Job, but Soft Skills Will Propel Your Career.*
+>  * *People are hired for their technical skills, but fired for their behavior.* – Peter Drucker
 > 
->  * *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”*  – Peter Drucker
+>  * *Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.*  
 >
->  * *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”*
+>  * *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.*
 >
->   * *“Soft skills are the invisible engine of career growth.”* – Travis Bradberry
+>   * *Soft Skills are the invisible engine of career growth.* – Travis Bradberry
 >
->  *“In today's accelerated technology environment, continuous learning and adaptability are as important as technical prowess.”*
+>   * *In today's accelerated technology environment, continuous learning and adaptability are as important as technical prowess.*
 >
 >  * *Curiosity, resilience, flexibility, and self-awareness are some of the most valued socioemotional skills in the workplace.* – World Economic Forum 2023
 >
