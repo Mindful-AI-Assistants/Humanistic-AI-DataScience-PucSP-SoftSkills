@@ -2,30 +2,26 @@
 <br>
 
 
-# Soft Skills Discipline for Technology Professionals
+# <p align="center">  Soft Skills Discipline for Technology Professionals
 
-<br><br>
+<br><br<br>
 
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
-<br><br>
+<br><br><br>
 
 
 **Humanistic AI and Data Science – 4th Semester**  
 **PUC-SP**  
 **Professor: Mirtiz Crus**
 
-<br><br>
-
-> “Technical skills may get you the job, but soft skills will propel your career.” 
-
-
-
 
 <br><br>
+
+
 
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
@@ -60,13 +56,8 @@
 
 > [!TIP]
 >
->  Extras Links We Use:
+> “Technical skills may get you the job, but soft skills will propel your career.” 
 >
-> - [Qlik](https://www.qlik.com/us)
->
-
-
-
 
 
 <br><br>
