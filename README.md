@@ -60,7 +60,7 @@
 > 
 >  *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.”*  – Peter Drucker
 >
->
+>   *“Technical skills account for about 15% of why someone gets, keeps, and advances in a job. The other 85% are soft skills.” *
 >
 >
 >
@@ -82,4 +82,5 @@
 
 In today's rapidly evolving technology landscape, **technical expertise alone is not enough**. Soft skills — the interpersonal, emotional, and cognitive abilities — are crucial for thriving in collaborative, innovative, and human-centered environments. This course is specifically designed for professionals in AI and data science, emphasizing the integration of humanistic values and effective communication to enhance both personal growth and professional success.
 
-***
+
+<br><br>
