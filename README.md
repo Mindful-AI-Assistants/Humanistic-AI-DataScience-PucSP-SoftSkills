@@ -135,7 +135,20 @@ Focuses on integrity, respect, and responsibility as pillars for ethical decisio
 <br><br>
 
 
+### 3. [Self-Knowledge and Its Importances]()
 
+Self-awareness improves emotional regulation and motivation, enabling better interpersonal relationships and resilience — key for sustainable career growth in dynamic tech environments.
+
+
+<br><br>
+
+
+### 4. [Learning 3.0s]()
+
+Promotes a modern, adaptable learning approach leveraging technology and collaboration. Vital for continuous skill advancement in fast-changing fields like AI and data science.
+
+
+<br><br>
 
 
 
