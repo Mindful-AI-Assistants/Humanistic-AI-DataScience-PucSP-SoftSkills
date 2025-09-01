@@ -56,7 +56,7 @@
 
 > [!TIP]
 >
-> “Technical skills may get you the job, but soft skills will propel your career.” 
+> ***“Technical Skills May Get You The Job, but Soft Skills Will Propel Your Career.”*** 
 >
 
 
