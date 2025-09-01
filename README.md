@@ -86,3 +86,63 @@ In today's rapidly evolving technology landscape, [**technical expertise alone i
 
 
 <br><br>
+
+
+
+## Table of Contents
+
+1. [Introduction to Soft Skills](#1-introduction-to-soft-skills)
+2. [Human Values](#2-human-values)
+3. [Self-Knowledge and Its Importance](#3-self-knowledge-and-its-importance)
+4. [Learning 3.0](#4-learning-30)
+5. [Emotional Intelligence](#5-emotional-intelligence)
+6. [Positive Intelligence vs. Universal Saboteur](#6-positive-intelligence-vs-universal-saboteur)
+7. [Effective and Assertive Communication](#7-effective-and-assertive-communication)
+8. [Empathy](#8-empathy)
+9. [Conflict Management and Negotiation](#9-conflict-management-and-negotiation)
+10. [Resume Preparation](#10-resume-preparation)
+11. [LinkedIn Preparation](#11-linkedin-preparation)
+12. [LinkedIn Digital Interview](#12-linkedin-digital-interview)
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
