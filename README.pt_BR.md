@@ -89,11 +89,13 @@
 <!--Fim-->
 
 
-Segue a tradução fiel mantendo o markdown e as tags exatamente como estão:
-
 ## [Introdução]()
+
+
 No cenário tecnológico em rápida evolução de hoje, [**a expertise técnica sozinha não é suficiente**](). As soft skills — habilidades interpessoais, emocionais e cognitivas — são cruciais para prosperar em ambientes colaborativos, inovadores e centrados no ser humano. Este curso é especialmente desenhado para profissionais de IA e ciência de dados, enfatizando a integração de valores humanísticos e comunicação eficaz para potencializar tanto o crescimento pessoal quanto o sucesso profissional.
 <br><br>
+
+
 ## Sumário
 1. [[O que são Soft Skills ?](#1-introdução-às-soft-skills)
 2. [Valores Humanos](#2-valores-humanos)
@@ -107,49 +109,82 @@ No cenário tecnológico em rápida evolução de hoje, [**a expertise técnica 
 10. [Preparação de Currículo](#10-preparação-de-currículo)
 11. [Preparação para LinkedIn](#11-preparação-para-linkedin)
 12. [Entrevista Digital no LinkedIn](#12-entrevista-digital-no-linkedin)
+
+
 <br><br>
+
+
 ## [Visão Geral do Conteúdo do Programa e Importância]()
+
+
 <br><br>
+
+
 ### 1. [O que são Soft Skills ?]()
 Apresenta o papel crítico que as soft skills desempenham junto ao conhecimento técnico. Compreender essa base prepara os estudantes para se destacarem pessoal e profissionalmente, especialmente em indústrias de IA e baseadas em dados.
+
 <br>
-> [!DICA]
+
+> [!TIP]
 >
 >  * [**Acesse o Conteúdo do Programa**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/8167752d08ff12590f015ec44a72be7778c8c378/1-What%20are%20Soft%20Skills.pdf) 
 >
+
 <br>
+
 #
+
 <br>
+
 ### 2. [Valores Humanos]()
 Foca em integridade, respeito e responsabilidade como pilares para a tomada de decisão ética. Esses valores são essenciais para guiar o desenvolvimento tecnológico de forma responsável e fomentar a confiança.
+
 <br>
-> [!DICA]
+
+> [!TIP]
 >
 >  * [**Acesse o Conteúdo do Programa**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/b189e13a897e04c0bbb2ac6a3b61e5bbdb2628aa/2-SoftSskills-Human%20Values.pdf) 
 >
+
 <br>
+
 #
+
 <br>
+
 ### 3. [Autoconhecimento e Sua Importância]()
+
 A autoconsciência melhora a regulação emocional e a motivação, permitindo melhores relacionamentos interpessoais e resiliência — chave para o crescimento sustentável na carreira em ambientes tecnológicos dinâmicos.
+
 <br>
-> [!DICA]
+
+> [!TIP]
 >
 >  * [**Acesse o Conteúdo do Programa**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/b189e13a897e04c0bbb2ac6a3b61e5bbdb2628aa/3-SoftSskills-Self-knowledge%20and%20its%20importance.pdf) 
 >
+
 <br>
+
 #
+
 <br>
+
 ### 4. [Aprendizagem 3.0]()
 Promove uma abordagem moderna e adaptável de aprendizagem que aproveita tecnologia e colaboração. Vital para o avanço contínuo de habilidades em campos de rápida mudança como IA e ciência de dados.
+
 <br>
-> [!DICA]
+
+> [!TIP]
 >
 >  * [**Acesse o Conteúdo do Programa**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/1f48a0ef0875af44a344d85270d9b6a9df30a47d/4-SoftSskills-Learning%203.0.pdf) 
 >
+
 <br>
+
 #
+
 <br>
+
 ### 5. [Inteligência Emocional]()
 Aprimora a capacidade de perceber, compreender e gerenciar emoções em si mesmo e nos outros, melhorando diretamente o trabalho em equipe, liderança e resolução de conflitos.
 
